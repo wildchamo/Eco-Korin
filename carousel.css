@@ -91,3 +91,10 @@ body {
     margin-top: 7rem;
   }
 }
+.social-link{
+  display: inline-block;
+  width: 75px;
+  height: 75px;
+  background-size: 50px 50px ;
+  margin: 10px 10px;
+}
